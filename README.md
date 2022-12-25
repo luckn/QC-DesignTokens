@@ -1,6 +1,6 @@
 # Q-Chang Design Tokens
 
-This file contains a list of the Q-Chang Design System's design tokens. <br/>
+This file contains a list of design token of Q-Chang Design System. <br/>
 The goal is to collect all visual styles in one place, ensuring consistency across all Q-Chang products.
 
 <b>For Devloper</b><br/>
